@@ -53,6 +53,24 @@
       "categoryTypes": "UI/UX Design",
       "slug": "deltatrainer-fitness-app-design-challenge",
       "headerImagePath": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+    },
+    {
+      "title": "Pralent Front-End Challenge",
+      "tagLine": "Web app to search and recommend places to visit in a city.",
+      "totalPrizeValue": "Knowledge",
+      "round": [{
+        "roundNumber": 1,
+        "statusTypeId": 1,
+        "name": "Round 1",
+        "isCurrentRound": true,
+        "isPublic": true,
+        "isFinalRound": true,
+        "startDatetime": "2020-06-01 04:00:00",
+        "endDatetime": null
+      }],
+      "categoryTypes": "Web Development",
+      "slug": "pralent-find-best-places-front-end-challenge",
+      "headerImagePath": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"
     }
   ]
 }
