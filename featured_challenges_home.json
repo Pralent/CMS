@@ -2,27 +2,22 @@
   "challenges": [
     {
       "title": "Pairi Pitch Competition",
-      "tagline": "This summer, bring the service economy online.",
+      "tagLine": "This summer, bring the service economy online.",
       "totalPrizeValue": "$5000 in Total Prizes",
+      "round": {
+        "roundNumber": 1,
+        "statusTypeId": 1,
+        "name": "Round 1",
+        "isCurrentRound": true,
+        "isPublic": true,
+        "isFinalRound": true,
+        "startDatetime": "2020-05-28 04:00:00",
+        "endDatetime": "2020-07-07 03:59:00"
+      },
       "endDate": "07/06/2020 11:59pm EST",
+      "categoryTypes": "Pitch Competition",
       "slug": "pairi-pitch-competition",
       "headerImagePath": "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"
-    },
-    {
-      "title": "UEA I-Fund Startup Competition",
-      "tagline": "A startup competition brought to you by the CMU Undergraduate Entrepreneurship Association.",
-      "totalPrizeValue": "$1000 in Total Prizes",
-      "endDate": "07/10/2020 11:59pm EST",
-      "slug": "uea-ifund-startup-competition",
-      "headerImagePath": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2090&q=80"
-    },
-    {
-      "title": "DeltaTrainer Fitness App Design Challenge",
-      "tagline": "The personal trainer is on your wrist, but do you care what they say?",
-      "totalPrizeValue": "$3200 in Total Prizes",
-      "endDate": "07/30/2020 11:59pm EST",
-      "slug": "deltatrainer-fitness-app-design-challenge",
-      "headerImagePath": "https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
     }
   ]
 }
