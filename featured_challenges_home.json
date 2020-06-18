@@ -4,7 +4,7 @@
       "title": "Pairi Pitch Competition",
       "tagLine": "This summer, bring the service economy online.",
       "totalPrizeValue": "$5000 in Total Prizes",
-      "round": {
+      "round": [{
         "roundNumber": 1,
         "statusTypeId": 1,
         "name": "Round 1",
@@ -13,7 +13,7 @@
         "isFinalRound": true,
         "startDatetime": "2020-05-28 04:00:00",
         "endDatetime": "2020-07-07 03:59:00"
-      },
+      }],
       "endDate": "07/06/2020 11:59pm EST",
       "categoryTypes": "Pitch Competition",
       "slug": "pairi-pitch-competition",
