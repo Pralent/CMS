@@ -11,7 +11,7 @@
         "isCurrentRound": true,
         "isPublic": true,
         "isFinalRound": true,
-        "startDatetime": "2020-05-28 04:00:00",
+        "startDatetime": "2020-05-28T04:00:00",
         "endDatetime": "2020-07-06T11:59:00"
       }],
       "categoryTypes": "Pitch Competition",
@@ -29,8 +29,8 @@
         "isCurrentRound": true,
         "isPublic": true,
         "isFinalRound": true,
-        "startDatetime": "2020-06-01 04:00:00",
-        "endDatetime": "2020-07-10 11:59:00"
+        "startDatetime": "2020-06-01T04:00:00",
+        "endDatetime": "2020-07-10T11:59:00"
       }],
       "categoryTypes": "Pitch Competition",
       "slug": "uea-ifund-startup-competition",
@@ -47,8 +47,8 @@
         "isCurrentRound": true,
         "isPublic": true,
         "isFinalRound": true,
-        "startDatetime": "2020-06-18 04:00:00",
-        "endDatetime": "2020-07-30 11:59:59"
+        "startDatetime": "2020-06-18T04:00:00",
+        "endDatetime": "2020-07-30T11:59:59"
       }],
       "categoryTypes": "UI/UX Design",
       "slug": "deltatrainer-fitness-app-design-challenge",
@@ -65,7 +65,7 @@
         "isCurrentRound": true,
         "isPublic": true,
         "isFinalRound": true,
-        "startDatetime": "2020-06-01 04:00:00",
+        "startDatetime": "2020-06-01T04:00:00",
         "endDatetime": null
       }],
       "categoryTypes": "Web Development",
