@@ -4,6 +4,9 @@
       "title": "Pairi Pitch Competition",
       "tagLine": "This summer, bring the service economy online.",
       "totalPrizeValue": "$5000 in Total Prizes",
+        "company": {
+        "companyLogoPath": "https://media-exp1.licdn.com/dms/image/C4D0BAQHrznnj5i2Uwg/company-logo_200_200/0?e=1602115200&v=beta&t=3xCfPMlNwmn-QAw7LNwnp2WH0DkLBabGk_Va9DTDWr4"
+      },
       "round": [{
         "roundNumber": 1,
         "statusTypeId": 1,
@@ -22,6 +25,9 @@
       "title": "UEA I-Fund Startup Competition",
       "tagLine": "A startup competition brought to you by the CMU Undergraduate Entrepreneurship Association.",
       "totalPrizeValue": "$1000 in Total Prizes",
+       "company": {
+        "companyLogoPath": "https://media-exp1.licdn.com/dms/image/C4E0BAQGnNdLxGXjMoA/company-logo_200_200/0?e=1602115200&v=beta&t=JmACCpKVhsF8Axqd7gOEV_9yw7V0d6mNK86vTRDz9Qs"
+      },
       "round": [{
         "roundNumber": 1,
         "statusTypeId": 1,
@@ -40,6 +46,9 @@
       "title": "DeltaTrainer Fitness App Design Challenge",
       "tagLine": "The personal trainer is on your wrist, but do you care what they say?",
       "totalPrizeValue": "$3200 in Total Prizes",
+      "company": {
+        "companyLogoPath": "https://media-exp1.licdn.com/dms/image/C4E0BAQEEyO9uMZ5a9w/company-logo_200_200/0?e=1602115200&v=beta&t=_XsL_gthNmiBuRhP3ZpyNQbTqTGUEwNQ7iUPsedYk7g"
+      },
       "round": [{
         "roundNumber": 1,
         "statusTypeId": 1,
@@ -58,6 +67,9 @@
       "title": "Pralent Front-End Challenge",
       "tagLine": "Web app to search and recommend places to visit in a city.",
       "totalPrizeValue": "Knowledge",
+      "company": {
+        "companyLogoPath": "https://media-exp1.licdn.com/dms/image/C4E0BAQFPpOwwzEeKfA/company-logo_200_200/0?e=1602115200&v=beta&t=KmTCgfv5o2FLRVMCBSP_Bs2O2BwJS-ng5CT0S9MDDzY"
+      },
       "round": [{
         "roundNumber": 1,
         "statusTypeId": 1,
