@@ -5,6 +5,6 @@
     "link": "/new",
     "daysToLive": 0,
     "secondsBeforeBannerShows": 5,
-    "closeIconSize": 30
+    "closeIconSize": 15
   }
 }
