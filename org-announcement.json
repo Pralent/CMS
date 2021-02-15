@@ -2,6 +2,9 @@
   "announcement": {
     "title": "[NEW] Bulk Upload Reviewers, Change Program Color, and more.",
     "subtitle": "Learn more about our latest features, by clicking here.",
-    "link": "/new"
+    "link": "/new",
+    "daysToLive": 0,
+    "secondsBeforeBannerShows": 5,
+    "closeIconSize": 30
   }
 }
